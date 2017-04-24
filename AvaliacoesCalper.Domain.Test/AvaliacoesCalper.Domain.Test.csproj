@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\AlternativaTests.cs" />
+    <Compile Include="Entities\QuestaoTests.cs" />
+    <Compile Include="Entities\QuestionariosTests.cs" />
+    <Compile Include="Entities\RespostaTests.cs" />
     <Compile Include="Entities\UsersTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
